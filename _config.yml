@@ -93,3 +93,5 @@ friends: [
         href: "http://www.jianshu.com/u/b8f58ffc3272"
     }
 ]
+
+theme: jekyll-theme-minimal
